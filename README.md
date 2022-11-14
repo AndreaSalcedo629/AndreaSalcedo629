@@ -6,7 +6,7 @@
 **A frontend developer**
 
 - 🌱 I’m currently learning React js, Phyton, CSS, SQL, Node js, PHP, Angular
-- 🛠 I'm currently working on this page: http://elbodegon.byethost18.com/index.html -> Link or repository: https://github.com/ChewinAnimeXD/Proyecto-software-2---Pagina-web-el-Bodegon
+- 🛠 I'm currently working on this page: http://elbodegon.byethost18.com/index.html -> Link of repository: https://github.com/ChewinAnimeXD/Proyecto-software-2---Pagina-web-el-Bodegon
 - 💻 All of my projects are available on https://github.com/AndreaSalcedo629?tab=repositories
 - 💬 Ask me about HTML, SQL, Node js
 - 📫 How to reach me: https://www.linkedin.com/in/mayerly-andrea-salcedo-barrera-365264213/
