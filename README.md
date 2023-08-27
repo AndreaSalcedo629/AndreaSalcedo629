@@ -17,10 +17,10 @@
 🌱 **Lenguages and tools** 🌱
 - Bootstrap
 - SQL
-- Oracle
+- React.js
 - CSS
 - HTML5
-- Node js
+- Node.js
 - PHP
 - Java
 - JavaScript
